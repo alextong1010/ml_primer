@@ -5,3 +5,13 @@ runs/
 weights/
 
 wandb/
+
+# # Ignore everything
+# *
+
+# # But don't ignore these specific files
+# !transformer.ipynb
+# !transformer_architecture.png
+
+# # Don't ignore .gitignore itself
+# !.gitignore
